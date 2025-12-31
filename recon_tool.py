@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-SUBFINDER + HTTPX RECON TOOL v4.0
-=================================
-Enhanced with smart categorization and output like the first tool
-"""
 
 import argparse
 import json
@@ -634,4 +629,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
