@@ -1,4 +1,4 @@
-# Subfinder + HTTPX Recon Tool
+# SubTTPX (Subfinder + HTTPx)
 
 Automated reconnaissance tool combining **Subfinder** and **HTTPX** for offensive security engagements.
 It discovers subdomains, checks live hosts, categorizes them by HTTP status, and highlights interesting findings like admin panels, API endpoints, and development servers.
