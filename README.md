@@ -91,13 +91,13 @@ python3 recon_tool.py -d example.com --simple
 
 ## Example Output
 
-![image](1.png)
+![image](Examples/1.png)
 
-![image](2.png)
+![image](Examples/2.png)
 
-![image](3.png)
+![image](Examples/3.png)
 
-![image](4.png)
+![image](Examples/4.png)
 
 ---
 
